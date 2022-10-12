@@ -12,8 +12,8 @@
       "atas_nama": "no found"
     },
     "dana": {
-      "nomer": "6285789004732",
-      "atas_nama": "Febri Pratama"
+      "nomer": {
+      "atas_nama": {
     }
   }
 }
